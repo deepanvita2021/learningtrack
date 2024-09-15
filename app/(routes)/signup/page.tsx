@@ -29,7 +29,7 @@ export default function SignUpPage() {
           <CardDescription className="text-green-600">
             Join us in revolutionizing waste management for smart cities. Our IoT-based system 
             monitors bin levels in real-time, optimizes collection routes, and promotes a 
-            cleaner environment. By signing up, you're taking a step towards a sustainable 
+            cleaner environment. By signing up, you&apos;re taking a step towards a sustainable 
             future and helping create cleaner, healthier urban spaces for all.
           </CardDescription>
         </CardHeader>
